@@ -16,7 +16,7 @@ class UserTableSeeder extends Seeder
             'name'      =>  'Wesley',
             'email'     =>  'wesley.dmartins@outlook.com',
             'cpf'       =>  '50275745848',
-            'password'  =>  bcrypt('Dsaf1973')
+            'password'  =>  bcrypt('senhaforte')
         ]);
     }
 }
